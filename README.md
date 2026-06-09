@@ -56,4 +56,4 @@ Contributions are welcome! Please refer to the `CONTRIBUTING.md` (if available) 
 
 ## License
 
-This project is licensed under the [License Name] - see the `LICENSE` file for details.
+This project is licensed under the MIT license - see the `LICENSE` file for details.
